@@ -31,6 +31,7 @@ Generate weather api key if for the first time user. Sign up and generate the ke
 
 4. run  `npm install`   (with node 20 or above)
 5. run  `npm start` (Service will start at `http://localhost:3300`)
+6. To run test cases `npx jest`
 
 ## Features & Tech stack
 
